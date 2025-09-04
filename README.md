@@ -2,8 +2,7 @@
 
 Smart Gesture and Voice PC_Controller is an AI-powered interface that allows users to control their computer using hand gestures and voice commands, eliminating the need for physical input devices. With modes for mouse and keyboard control, users can navigate the screen, click, and type with gestures or dictate text using speech. This system integrates computer vision and speech recognition, providing an intuitive, touchless experience ideal for accessibility and smart environments.
 
-# Live Project Link : 
-https://smart-gesture-voice-pc-controller.netlify.app/
+
 
 ## 1. Organize Your Project Directory
 Structure your project like this:
@@ -17,10 +16,6 @@ Structure your project like this:
 # Steps to Run the Project
 ## 1. Clone or Download the Project
 If it's on GitHub, clone it:
-
-git clone https://github.com/aniketjadhav25000/smart-gesture-voice-PC_controller.git
-cd smart-gesture-voice-PC_controller
-
 
 ## 2. Install Required Dependencies
 Make sure requirements.txt is present, then run:
